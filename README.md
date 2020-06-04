@@ -10,3 +10,5 @@
 - Day 2 (Delete Node in a Linked List)
 
 - Day 3 (Two City Scheduling)
+
+- Day 4 (Reverse String)
