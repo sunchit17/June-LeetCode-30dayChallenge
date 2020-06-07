@@ -17,7 +17,7 @@
 
 - Day 6 (Queue Reconstruction by Height)
 
--
+- Day 7 (Coin Change 2)
 
 ***
 > Week 2
