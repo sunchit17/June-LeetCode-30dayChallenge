@@ -22,4 +22,6 @@
 ***
 > Week 2
 
-- 
+- Day 8 (Power of Two)
+
+- Day 9 
