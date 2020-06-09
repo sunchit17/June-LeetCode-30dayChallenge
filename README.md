@@ -24,4 +24,4 @@
 
 - Day 8 (Power of Two)
 
-- Day 9 
+- Day 9 (Is Subsequence)
