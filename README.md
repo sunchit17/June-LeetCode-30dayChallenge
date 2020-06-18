@@ -45,3 +45,5 @@
 - Day 16 (Validate IP Address)
 
 - Day 17 (Surrounded Regions)
+
+- Day 18 (H-Index II)
