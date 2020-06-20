@@ -50,7 +50,7 @@
 
 - Day 19 (Longest Duplicate Substring)
 
-- Day 20
+- Day 20 (Permutation Sequence)
 
 - Day 21
 
