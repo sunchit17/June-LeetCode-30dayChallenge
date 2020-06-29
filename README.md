@@ -74,6 +74,6 @@
 ***
 > Week 5
 
-- Day 29
+- Day 29 (Unique Paths)
 
 - Day 30
